@@ -2,7 +2,7 @@
 """
 Hangman Game
 Created on Sat Jul 24 13:54:24 2021
-
+small update 07.02.2023
 @author: RanCalifa
 """
 # importing all relevant modules
